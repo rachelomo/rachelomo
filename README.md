@@ -45,24 +45,19 @@ Take a look around.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" />
-</p>
-
 
 ### 🌐 Let’s Connect
 
 <div align="center">
 
-<a href="https://portfolio-59qy.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="https://portfolio-59qy.vercel.app/" target="_blank"> 🌐
 
 <a href="https://www.linkedin.com/in/rachael-adebisi-0b4543291/" target="_blank">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:adebisirachael41@gmail.com">
-  <img src="https://img.shields.io/badge/✉️%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
