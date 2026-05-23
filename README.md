@@ -36,10 +36,6 @@ Take a look around.
 
 You might find the project that becomes our next conversation.
 
-[🌐Portfolio](https://portfolio-59qy.vercel.app/)
-
-[💼LinkedIn Profile](https://www.linkedin.com/in/rachael-adebisi-0b4543291/)
-
-[✉️Email](mailto:adebisirachael41@gmail.com)
+[🌐Portfolio](https://portfolio-59qy.vercel.app/) [💼LinkedIn Profile](https://www.linkedin.com/in/rachael-adebisi-0b4543291/) [✉️Email](mailto:adebisirachael41@gmail.com)
 
 Thank you for stopping by.
