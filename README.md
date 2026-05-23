@@ -1,6 +1,6 @@
 # Welcome 👋
 
-# You made it here and I am glad you did.
+## You made it here and I am glad you did.
 
 I am Rachael Adebisi, a Full Stack Developer focused on helping businesses simplify operations, improve efficiency and turn ideas into scalable digital products people actually enjoy using.
 
@@ -53,9 +53,22 @@ Take a look around.
 
 <div align="center">
 
-<a href="https://portfolio-59qy.vercel.app/" target="_blank">🌐 Portfolio</a> •  
-<a href="https://www.linkedin.com/in/rachael-adebisi-0b4543291/" target="_blank">💼 LinkedIn Profile</a> •  
-<a href="mailto:adebisirachael41@gmail.com">✉️ Email</a>
+<a href="https://portfolio-59qy.vercel.app/" target="_blank">
+  <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
+    🌐 Portfolio
+  </span>
+</a>
 
+<a href="https://www.linkedin.com/in/rachael-adebisi-0b4543291/" target="_blank">
+  <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
+    💼 LinkedIn
+  </span>
+</a>
+
+<a href="mailto:adebisirachael41@gmail.com">
+  <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
+    ✉️ Email
+  </span>
+</a>
 </div>
 Thank you for stopping by.
