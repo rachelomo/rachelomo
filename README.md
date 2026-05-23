@@ -1,6 +1,6 @@
 # Welcome 👋
 
-You made it here and I am glad you did.
+# You made it here and I am glad you did.
 
 I am Rachael Adebisi, a Full Stack Developer focused on helping businesses simplify operations, improve efficiency and turn ideas into scalable digital products people actually enjoy using.
 
@@ -34,9 +34,9 @@ If you are a recruiter, founder, business owner or someone looking to build some
 
 Take a look around.
 
-## 🚀 Favourite Technologies
+## 🚀 Some Favourite Technologies
 
-<p align="left">
+<p align="left flex item-center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" />
