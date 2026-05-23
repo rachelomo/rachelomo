@@ -34,8 +34,22 @@ If you are a recruiter, founder, business owner or someone looking to build some
 
 Take a look around.
 
-You might find the project that becomes our next conversation.
+### 🚀 Favourite Technologies
 
-[🌐Portfolio](https://portfolio-59qy.vercel.app/) [💼LinkedIn Profile](https://www.linkedin.com/in/rachael-adebisi-0b4543291/) [✉️Email](mailto:adebisirachael41@gmail.com)
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
+![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+
+### 🌐 Let’s Connect
+
+✨ [Portfolio](https://portfolio-59qy.vercel.app/) •  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/rachael-adebisi-0b4543291/) •  
+📩 [Send Email](mailto:adebisirachael41@gmail.com)
 
 Thank you for stopping by.
