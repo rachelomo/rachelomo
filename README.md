@@ -2,7 +2,7 @@
 
 You made it here and I am glad you did.
 
-I am Rachael, a Full Stack Developer focused on helping businesses simplify operations, improve efficiency and turn ideas into scalable digital products people actually enjoy using.
+I am Rachael Adebisi, a Full Stack Developer focused on helping businesses simplify operations, improve efficiency and turn ideas into scalable digital products people actually enjoy using.
 
 I enjoy building systems that solve real problems, create smoother experiences and grow with the people using them.
 
