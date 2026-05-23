@@ -36,10 +36,10 @@ Take a look around.
 
 You might find the project that becomes our next conversation.
 
-🌐 Portfolio: [Live Portfolio](https://portfolio-59qy.vercel.app/)
+[🌐Portfolio](https://portfolio-59qy.vercel.app/)
 
-💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rachael-adebisi-0b4543291/)
+[💼LinkedIn Profile](https://www.linkedin.com/in/rachael-adebisi-0b4543291/)
 
-✉️ Email: [Send me an email](mailto:adebisirachael41@gmail.com)
+[✉️Email](mailto:adebisirachael41@gmail.com)
 
 Thank you for stopping by.
