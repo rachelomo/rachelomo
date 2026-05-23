@@ -34,7 +34,7 @@ If you are a recruiter, founder, business owner or someone looking to build some
 
 Take a look around.
 
-## 🚀 Some Favourite Technologies
+### 🚀 Some Favourite Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" />
@@ -63,5 +63,6 @@ Take a look around.
 </a>
 
 </div>
+
 
 Thank you for stopping by.
