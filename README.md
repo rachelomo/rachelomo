@@ -54,21 +54,17 @@ Take a look around.
 <div align="center">
 
 <a href="https://portfolio-59qy.vercel.app/" target="_blank">
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
-    🌐 Portfolio
-  </span>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/rachael-adebisi-0b4543291/" target="_blank">
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
-    💼 LinkedIn
-  </span>
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:adebisirachael41@gmail.com">
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
-    ✉️ Email
-  </span>
+  <img src="https://img.shields.io/badge/✉️%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </div>
+
 Thank you for stopping by.
