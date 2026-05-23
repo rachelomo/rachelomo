@@ -36,7 +36,7 @@ Take a look around.
 
 ## 🚀 Some Favourite Technologies
 
-<p align="left flex item-center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" />
@@ -51,8 +51,11 @@ Take a look around.
 
 ### 🌐 Let’s Connect
 
-✨ [Portfolio](https://portfolio-59qy.vercel.app/) •  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/rachael-adebisi-0b4543291/) •  
-📩 [Send Email](mailto:adebisirachael41@gmail.com)
+<div align="center">
 
+<a href="https://portfolio-59qy.vercel.app/" target="_blank">🌐 Portfolio</a> •  
+<a href="https://www.linkedin.com/in/rachael-adebisi-0b4543291/" target="_blank">💼 LinkedIn Profile</a> •  
+<a href="mailto:adebisirachael41@gmail.com">✉️ Email</a>
+
+</div>
 Thank you for stopping by.
